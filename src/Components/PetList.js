@@ -13,15 +13,4 @@ const PetList = () => {
   )
 }
 
-// class PetList extends React.Component {
-//   render() {
-//     return (
-//       <section className="pet-list">
-//         <h4>All Pets</h4>
-//         <article></article>
-//       </section>
-//     );
-//   }
-// }
-
 export default PetList;

@@ -19,21 +19,4 @@ const AnimalTypes = () => {
   )
 }
 
-// class AnimalTypes extends React.Component {
-//   render() {
-//     return (
-//       <section className={"animal-types"}>
-//         <h4>Animal Types</h4>
-//         <form>
-//           <label htmlFor="type">
-//             <input type="text" id="animal-type" />
-//           </label>
-//           <input type="submit" />
-//         </form>
-//         <ol></ol>
-//       </section>
-//     );
-//   }
-// }
-
 export default AnimalTypes;
