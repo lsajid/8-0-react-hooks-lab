@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import "./AnimalTypes.css";
 
 const animalTypes = ["dog", "cat", "ferret", "bird", "fish", "snake", "lizard"];
